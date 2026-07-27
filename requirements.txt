@@ -1,0 +1,7 @@
+pandas>=2.3
+numpy>=2.2
+scikit-learn>=1.7
+seaborn
+matplotlib
+ucimlrepo
+streamlit

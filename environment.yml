@@ -1,0 +1,13 @@
+name: thyroid-recurrence
+dependencies:
+  - python=3.10
+  - pandas>=2.3
+  - numpy>=2.2
+  - scikit-learn>=1.7
+  - seaborn
+  - matplotlib
+  - plotly
+  - pip
+  - pip:
+      - ucimlrepo
+      - streamlit
